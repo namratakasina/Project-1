@@ -8,10 +8,9 @@ The data consists of 8 column and 1000 rows.
 
 #### Life cycle of Machine learning Project
 
-- Understanding the Problem Statement
-- Data Collection
-- Data Checks to perform
-- Exploratory data analysis
-- Data Pre-Processing
-- Model Training
-- Choose best model
+1: Understanding the Problem Statement
+2: Data Collection
+3:Exploratory data analysis
+4: Data Pre-Processing
+5:Model Training
+6:Choose best model
